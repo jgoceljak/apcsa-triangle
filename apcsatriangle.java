@@ -12,7 +12,7 @@ public class apcsatriangle {
 
         double area = (height * base)/2;
 
-        System.out.print("\nThe area of triangle with a ");
+        System.out.print("\nThe area of triangle with a height and base of ");
         System.out.printf("%.1f", height);
         System.out.print( " and ");
         System.out.printf("%.1f", base);
